@@ -20,7 +20,7 @@
     "nodemon": "^1.19.3",
     "sequelize": "^5.19.1",
     "babel": "^6.23.0",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "jsonwebtoken": "^8.5.1"
   }
 }
